@@ -1,0 +1,5 @@
+.idea
+vendor/
+composer.lock
+resources/xml/
+resources/certificados/
